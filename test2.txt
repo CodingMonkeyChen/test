@@ -1,3 +1,7 @@
 this is a test
+<<<<<<< HEAD
 xiugai
 又改了一次
+=======
+xiugai
+>>>>>>> 2972e2cd8bade5e316d62f3c576e68ef44e10887
